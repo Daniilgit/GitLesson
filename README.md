@@ -15,3 +15,12 @@
      let str = 'this is js code';
      ```
      [this is link](http://github.com)
+Заходим в папку с рабоо1 и вверху пишем cmd
+git config --global user.email "Пишете свой имейл"
+git config --global user.name "Пишете своё имя"
+На каждый файл пишется git add index.html
+git status
+git commit -m"Я добавил новые файлы"
+git push
+
+вместо git add index.html можно написать git add -A
